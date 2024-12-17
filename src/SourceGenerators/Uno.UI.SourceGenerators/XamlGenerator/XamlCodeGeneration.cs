@@ -12,7 +12,7 @@ using System.Xml;
 using Uno.Roslyn;
 using Microsoft.CodeAnalysis;
 using Uno.Extensions;
-using Uno.UI.SourceGenerators.Telemetry;
+using Uno.DevTools.Telemetry;
 using Uno.UI.Xaml;
 using System.Drawing;
 using __uno::Uno.Xaml;
@@ -680,7 +680,7 @@ namespace Uno.UI.SourceGenerators.XamlGenerator
 				writer.AppendLineIndented("/// Contains all the static resources defined for the application");
 				writer.AppendLineIndented("/// </summary>");
 
-				if (_isDebug)
+				if (_isHotReloadEnabled)
 				{
 					writer.AppendLineIndented("[global::System.Runtime.CompilerServices.CreateNewOnMetadataUpdate]");
 				}
