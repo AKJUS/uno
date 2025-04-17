@@ -6,7 +6,7 @@
 	"keywords": [],
 	"private": true,
 	"devDependencies": {
-		"autoprefixer": "^10.3.2",
+		"autoprefixer": "^10.4.21",
 		"browser-sync": "^3.0.3",
 		"browserlist": "^1.0.1",
 		"del": "^6.0.0",
