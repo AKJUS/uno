@@ -22,7 +22,7 @@ $external_docs = @{
     "workshops"          = @{ ref="3515c29e03dea36cf2206d797d1bf9f8620370e3" }  #latest master commit
     "uno.samples"        = @{ ref="754a67fff98cdd56dda13cc9a7d538a36a511352" }  #latest master commit
     "uno.chefs"          = @{ ref="1afae1b3f3d2e3bd3f6cb7084aed861f74ea525b" }  #latest main commit
-    "hd-docs"            = @{ ref="ae6345c445ec1e30a0602f1b90d0e3868dce75cd"; dest="studio/Hot Design" } #latest main commit
+    "hd-docs"            = @{ ref="392b8c2ea8e99808cd166a3e34f4688b838b3abe"; dest="studio/Hot Design" } #latest main commit
     "studio-docs"        = @{ ref="830e1b87432ae9e21ac4a3fc9b021d67ec5925f3" }  #latest main commit
 }
 
