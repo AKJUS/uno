@@ -12,7 +12,7 @@ $external_docs = @{
     # use either commit, or branch name to use its latest commit
     "uno.wasm.bootstrap" = @{ ref="0eea4b36ea221d5d9a94f39788cdea7876d5e942" }  #latest main commit
     "uno.themes"         = @{ ref="974e752e7824d1e082e0bf1f37c37e3573bb717e" }  #latest master commit
-    "uno.toolkit.ui"     = @{ ref="0b4bd3ce1da73ddc41341974ebc28c01e5278597" }  #latest main commit
+    "uno.toolkit.ui"     = @{ ref="4d05ba72ab21267008b1d4c767bef10bb3c1cbe8" }  #latest main commit
     "uno.check"          = @{ ref="cd4ed86d5a0a01bdcc4438607ca816a91c29b57a" }  #latest main commit
     "uno.xamlmerge.task" = @{ ref="081dcfa44b5ce24ac0948675e5ee6b781e2107bc" }  #latest main commit
     "figma-docs"         = @{ ref="842a2792282b88586a337381b2b3786e779973b4" }  #latest main commit
