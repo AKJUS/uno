@@ -11,9 +11,9 @@ Set-PSDebug -Trace 1
 $external_docs = @{
     # use either commit, or branch name to use its latest commit
     "uno.wasm.bootstrap" = @{ ref="c1d7eb6cd8d569d7db07030f5b5c5dba0389ffa1" }  #latest main commit
-    "uno.themes"         = @{ ref="21517790fa80f1528322dfa717452bcca0863358" }  #latest master commit
-    "uno.toolkit.ui"     = @{ ref="77e823c1bcab55a219b119fbe6ec4f13e0c99787" }  #latest main commit
-    "uno.check"          = @{ ref="cd4ed86d5a0a01bdcc4438607ca816a91c29b57a" }  #latest main commit
+    "uno.themes"         = @{ ref="ae2e2ffabb25cb57997d421342eb06165f07d05a" }  #latest master commit
+    "uno.toolkit.ui"     = @{ ref="b256fb2568360e8c31f78acd14116957ac30956f" }  #latest main commit
+    "uno.check"          = @{ ref="547612c893fedfaaacf0dc0b4ce951d48e28629b" }  #latest main commit
     "uno.xamlmerge.task" = @{ ref="081dcfa44b5ce24ac0948675e5ee6b781e2107bc" }  #latest main commit
     "figma-docs"         = @{ ref="842a2792282b88586a337381b2b3786e779973b4" }  #latest main commit
     "uno.resizetizer"    = @{ ref="cd95e3592296259e4417af48761f86e34c7c1e59" }  #latest main commit
