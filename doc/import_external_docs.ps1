@@ -13,7 +13,7 @@ $external_docs = @{
     "uno.wasm.bootstrap" = @{ ref="dce9bf4aab0d3c1ab3857cec3bb520f9167d3060" }  #latest main commit
     "uno.themes"         = @{ ref="c2b4d8fca3b08832c773a5916696537d5bf8dd34" }  #latest master commit
     "uno.toolkit.ui"     = @{ ref="b587c5573ffc5f06b32ec1ff284e5a3b7f72a0a0" }  #latest main commit
-    "uno.check"          = @{ ref="3885eda8f6bea8e5fa9fff9d397bfaa094a2b6c6" }  #latest main commit
+    "uno.check"          = @{ ref="c8733e9ab63ff6fb7e90a9503c7158d370c18242" }  #latest main commit
     "uno.xamlmerge.task" = @{ ref="081dcfa44b5ce24ac0948675e5ee6b781e2107bc" }  #latest main commit
     "figma-docs"         = @{ ref="842a2792282b88586a337381b2b3786e779973b4" }  #latest main commit
     "uno.resizetizer"    = @{ ref="3ed33f839c58ee6e9a6e4baeba88b94b6a2e2ab7" }  #latest main commit
