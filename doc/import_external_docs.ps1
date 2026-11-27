@@ -11,16 +11,16 @@ Set-PSDebug -Trace 1
 $external_docs = @{
     # use either commit, or branch name to use its latest commit
     "uno.wasm.bootstrap" = @{ ref="dce9bf4aab0d3c1ab3857cec3bb520f9167d3060" }  #latest main commit
-    "uno.themes"         = @{ ref="f8b439ed2267cd7f0e67a73c52448f75e3595f6a" }  #latest master commit
-    "uno.toolkit.ui"     = @{ ref="b94d762cc6281097f060d469b7e0060a835f7560" }  #latest main commit
-    "uno.check"          = @{ ref="9031db266b5d8b547a9307fe181435e697775cb0" }  #latest main commit
+    "uno.themes"         = @{ ref="45b8e2ab8fe250b45987acbd8c7e370c52285ee9" }  #latest master commit
+    "uno.toolkit.ui"     = @{ ref="d0491a21cc2d62955de895e6106ac736331f5295" }  #latest main commit
+    "uno.check"          = @{ ref="7548466e85114480d08e6852b60c4564dd1bd998" }  #latest main commit
     "uno.xamlmerge.task" = @{ ref="081dcfa44b5ce24ac0948675e5ee6b781e2107bc" }  #latest main commit
     "figma-docs"         = @{ ref="842a2792282b88586a337381b2b3786e779973b4" }  #latest main commit
     "uno.resizetizer"    = @{ ref="3ed33f839c58ee6e9a6e4baeba88b94b6a2e2ab7" }  #latest main commit
     "uno.uitest"         = @{ ref="94d027295b779e28064aebf99aeaee2b393ad558" }  #latest master commit
-    "uno.extensions"     = @{ ref="454124e913ec28db16f12d44f9bd80efbd88bdbc" }  #latest main commit
+    "uno.extensions"     = @{ ref="bc1d3be1b14235bdb16cc73e23410615d9900098" }  #latest main commit
     "workshops"          = @{ ref="3515c29e03dea36cf2206d797d1bf9f8620370e3" }  #latest master commit
-    "uno.samples"        = @{ ref="da93d84026032f3ad07dc41ab5e044c88d232027" }  #latest master commit
+    "uno.samples"        = @{ ref="14a81b438107f110f38c2291ea643106ea90ecc5" }  #latest master commit
     "uno.chefs"          = @{ ref="d3591606dae2e5f4892ab4872a8dd94c2fc9e211" }  #latest main commit
     "hd-docs"            = @{ ref="283c1aeda1902af2ca384e14c5461d42a34aecdd"; dest="studio/Hot Design" } #latest main commit
     "studio-docs"        = @{ ref="6de50c5689e1de9666db062fe2f063299ee21b33" }  #latest main commit
